@@ -792,6 +792,11 @@ $(document).ready(function(){
         
     });
 
+    $('#newweather').click(function(event){
+        event.preventDefault();
+        location.reload(true);
+
+    });
 
 
 

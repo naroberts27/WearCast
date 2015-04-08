@@ -393,11 +393,18 @@ display: inline;
      font-size:1.1em;
 }
 
+#temp-extras {
+    margin-bottom: 20px;
+}
 
 #temp {
      font-size:5.2em;
      display: inline-block;
      margin-right:30px;
+}
+
+#newweather {
+  margin: 10px 0px;
 }
 
 #results-bottom {
@@ -548,6 +555,7 @@ footer {
      margin-left: 0px;
     
      }  
+
 
 
 
